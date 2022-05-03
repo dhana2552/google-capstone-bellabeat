@@ -4,7 +4,7 @@ This is a capstone project in Google Data Analytics course where it is expected 
 
 In the project, I have applied the skills gathered from the course: **Ask, Prepare, Process, Analyze and Share**
 
-The dataset used for the project is [fitbit]!(https://www.kaggle.com/datasets/arashnic/fitbit)
+The dataset used for the project is [fitbit](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 The code is available in https://www.kaggle.com/code/dhanalakshmic/bellabeat-case-study where I have used R programming for Prepare, Process and Analyze phases
 
